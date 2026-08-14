@@ -1,0 +1,7 @@
+principal_component	diagnostic	pearson_r
+PC1	genotype_missingness	-0.949964072573042
+PC1	log10_total_mean_coverage	0.684290937695899
+PC2	genotype_missingness	-0.213169032992934
+PC2	log10_total_mean_coverage	0.15994266373367
+PC3	genotype_missingness	-0.130362680357838
+PC3	log10_total_mean_coverage	0.11633420335807
