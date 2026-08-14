@@ -1,0 +1,9 @@
+parameter	value	unit	interpretation
+PHASE	2	mode	Unknown phase; GONE estimates phase through its LD procedure
+NGEN	2000	generations	Maximum generation horizon configured for the run
+NBIN	400	bins	Five-generation bins over the configured horizon
+MAF	0.0	fraction	No additional minor-allele-frequency cutoff in GONE
+REPS	40	replicates	Geometric mean over 40 independent estimates
+threads	24	threads	Run-time CPU threads recorded in each input file
+input_filter_branch	05_hwe1e-5	PLINK prefix	SXY existing 33-sample filtering branch used as input
+populations	Chillingham;swedish_modern;Swiss_modern	groups	6; 6; and 18 retained individuals
